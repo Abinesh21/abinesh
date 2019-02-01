@@ -1,7 +1,7 @@
 a=3
 if a<0:
-  print("the number is negative")
+  print("Negative")
 elif a>0:
-  print("the number is positive")
+  print("Positive")
 else:
-  print("the number is zero")
+  print("Zero")
