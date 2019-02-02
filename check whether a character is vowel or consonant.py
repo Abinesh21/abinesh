@@ -1,8 +1,8 @@
-alpha = str(input("Input a letter of the alphabet: "))
+alpha = str(input())
 if alpha.isalpha():
 	if alpha in ('a', 'e', 'i', 'o', 'u','A','E','I','O','U'):
-		print("vowel")
+		print("Vowel")
 	else:
-		print("consonant") 
+		print("Consonant") 
 else:
 	print("invalid")
