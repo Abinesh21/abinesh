@@ -1,4 +1,4 @@
-a,b=raw_input().split( )
+a,b=input().split( )
 x=int(a)
 y=int(b)
 for i in range(x+1,y):
