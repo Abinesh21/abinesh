@@ -1,7 +1,7 @@
 a,b=input().split( )
 x=int(a)
 y=int(b)
-for num in range(x,y+1):
+for num in range(x,y):
 	power=len(str(num))
 	sum=0
 	temp=num
